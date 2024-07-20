@@ -1,0 +1,101 @@
+[
+   
+   
+    {
+        "id": 4,
+        "title": "MOBILE",
+        "list": [
+            {
+            "id": 1,
+            "text": " +91-9001992823",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "+91-9001992823",
+            "url": "/"
+            },
+            {
+            "id": 3,
+            "text": " +91-9001995895",
+            "url": "/"
+            },
+            {
+            "id": 4,
+            "text": "0294-2526525 (FAX)",
+            "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "REGIONAL OFFICES",
+        "list": [
+            {
+            "id": 1,
+            "text": "Udaipur  :  Mr. Avinesh Gupta  -  +91- 9829044330",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "Delhi  :    Mr. Amardeep Singh -  +91- 98102 55901",
+            "url": "/"
+            },
+            {
+            "id": 3,
+            "text": "Kolkatta  :  Mr. S.K. Chakraborty  -  +91- 94330 46308",
+            "url": "/"
+            },
+            {
+            "id": 4,
+            "text": "Maharasthtra  (Latur)  :  Mr. Yusuf  -  +91- 9764410000",
+            "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "",
+        "list": [
+            {
+            "id": 1,
+            "text": " ",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "",
+            "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "WEBSITES",
+        "list": [
+            {
+            "id": 1,
+            "text": "www.clutchesbrakes.com",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": " www.sytcobrakes.com",
+            "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "REGISTERED & HEAD OFFICE",
+        "list": [
+            {
+            "id": 1,
+            "text": " Electromatic Engineers Pvt. Ltd. 8-B Saheli Marg, Udaipur-313001 - Rajasthan (India)",
+            "url": "/"
+            }
+           
+        ]
+    }
+    
+]
